@@ -1,0 +1,156 @@
+---
+import Layout from '../layouts/Layout.astro';
+import menuItems  from '../scipts/menu-itens.json'
+import MenuItem from '../components/MenuItem.astro';
+
+const espressos = menuItems['CAFÉ ESPRESSO']
+const coado = menuItems['COADO']
+const ritual = menuItems['RITUAL']
+const bebidas_quentes = menuItems['BEBIDA QUENTE']
+const capuccinos = menuItems['CAPUCCINO']
+const espresso_tonica = menuItems['ESPRESSO TÔNICA']
+const gin_tonica = menuItems['GIN TÔNICA']
+const bebidas_geladas_c_leite = menuItems['BEBIDA GELADA COM LEITE']
+const affogatos = menuItems['AFFOGATO']
+const chas_quente = menuItems['CHÁ QUENTE']
+const chas_gelado = menuItems['CHÁ GELADO']
+const shake = menuItems['SHAKE WHEY PROTEIN']
+const drinks = menuItems['DRINK']
+const outras_bebidas_geladas = menuItems['OUTRA BEBIDA GELADA']
+const pao_d_queijo = menuItems['PÃO DE QUEIJO']
+const pao_d_queijo_recheado = menuItems['PÃO DE QUEIJO RECHEADO']
+const lanches = menuItems['LANCHES NA CHAPA']
+const tapiocas = menuItems['TAPIOCA']
+const crepes = menuItems['CREPES DE TAPIOCA']
+const cafe_d_manha = menuItems['CAFÉ DA MANHA']
+const omelete = menuItems['OMELETE']
+const tostadinhos = menuItems['TOSTADINHO']
+const salgados = menuItems['SALGADO']
+const sobremesas = menuItems['SOBREMESA']
+const sorvetes = menuItems['SORVETES NA TAÇA']
+---
+
+<Layout title="Balaio">
+  <h2>Nossos Cafés</h2>
+  <h3>Espresso</h3>
+  <ul>
+    { espressos.map(o => <MenuItem obj={o}/>) }
+  </ul>
+
+  <h3>Cafés Especiais Coados</h3>
+  <ul>
+    <MenuItem obj={coado}/>
+  </ul>
+
+  <h3>Ritual do Cafequizador</h3>
+  <ul>
+    <MenuItem obj={ritual}>
+  </ul>
+
+  <h2>Bebidas Quentes</h2>
+  <ul>
+    { bebidas_quentes.map(o => <MenuItem obj={o}/>) }
+  </ul>
+
+  <h2>Capuccinos</h2>
+  <ul>
+    { capuccinos.map(o => <MenuItem obj={o}/>) }
+  </ul>
+
+  <h2>Taças de Espresso</h2>
+  <h3>Espresso Tônica</h3>
+  <ul>
+    { espresso_tonica.map(o => <MenuItem obj={o}/>) }
+  </ul>
+  <h3>Espresso Gin Tônica (+18)</h3>
+  <ul>
+    { gin_tonica.map(o => <MenuItem obj={o}/>) }
+  </ul>
+
+  <h2>Bebidas Geladas Com Leite</h2>
+  <ul>
+    { bebidas_geladas_c_leite.map(o => <MenuItem obj={o}/>) }
+  </ul>
+
+  <h2>Affogatos</h2>
+  <ul>
+    { affogatos.map(o => <MenuItem obj={o} />)}
+  </ul>
+
+  <h2>Nosso Chás</h2>
+  <h3>Quente</h3>
+  <ul>
+    { chas_quente.map(o => <MenuItem obj={o}/>) }
+  </ul>
+  <h3>Gelado</h3>
+  <ul>
+    { chas_gelado.map(o => <MenuItem obj={o}/>) }
+  </ul>
+
+  <h2>Shake Whey Protein</h2>
+  <ul>
+   { shake.map(o => <MenuItem obj={o}/>) }
+  </ul>
+
+  <h2>Drinks</h2>
+  <ul>
+    { drinks.map(o => <MenuItem obj={o}/>) }
+  </ul>
+
+  <h2>Outras Bebidas Geladas</h2>
+  <ul>
+    { outras_bebidas_geladas.map(o => <MenuItem obj={o}/>) }
+  </ul>
+
+  <h2>Pão de Queijo</h2>
+  <MenuItem obj={pao_d_queijo}/>
+  <h3>Recheados</h3>
+  <ul>
+    { pao_d_queijo_recheado.map(o => <MenuItem obj={o}/>) }
+  </ul>
+
+  <h2>Lanches na Chapas</h2>
+  <ul>
+    { lanches.map(o => <MenuItem obj={o}/>) }
+  </ul>
+
+  <h2>Tapiocas</h2>
+  <ul>
+    { tapiocas.map(o => <MenuItem obj={o}/>) }
+  </ul>
+
+  <h2>Crepes de Tapiocas</h2>
+  <ul>
+    { crepes.map(o => <MenuItem obj={o}/>) }
+  </ul>
+
+  <h2>Café da Manhã da Nutri</h2>
+  <ul>
+    { <MenuItem obj={cafe_d_manha}/> }
+  </ul>
+
+  <h2>Omelete Saudável</h2>
+  <ul>
+    { <MenuItem obj={omelete}/> }
+  </ul>
+
+  <h2>Tosdadinhos</h2>
+  <ul>
+    { tostadinhos.map(o => <MenuItem obj={o}/>) }
+  </ul>
+
+  <h2>Salgados</h2>
+  <ul>
+    { salgados.map(o => <MenuItem obj={o}/>) }
+  </ul>
+
+  <h2>Sobremesas</h2>
+  <ul>
+    { sobremesas.map(o => <MenuItem obj={o}/>) }
+  </ul>
+
+  <h2>Sorvetes na Taça</h2>
+  <ul>
+    { sorvetes.map(o => <MenuItem obj={o}/>) }
+  </ul>
+</Layout>

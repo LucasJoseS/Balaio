@@ -1,0 +1,597 @@
+{
+ "CAFÉ ESPRESSO": [
+  {
+   "name": "CURTO 30 ml",
+   "cost": "5",
+   "desc": ""
+  },
+  {
+   "name": "DUPLO 60 ml",
+   "cost": "7",
+   "desc": ""
+  },
+  {
+   "name": "CARIOCA 90 ml",
+   "cost": "9",
+   "desc": ""
+  }
+ ],
+ "COADO": {
+  "name": "CAFÉS ESPECIAIS COADOS",
+  "cost": "12",
+  "desc": "Peça nossa tábua de cafés e escolha o seu. Métodos v60 e aeropress"
+ },
+ "RITUAL": {
+  "name": "RITUAL DO CAFEQUIZADOR",
+  "cost": "15",
+  "desc": "Faça uma imersão no mundo dos cafés e descubra as principais diferenças entre especiais, tradicionais e gourmet. Acompanha um café da nossa tábua de cafés especiais."
+ },
+ "BEBIDA QUENTE": [
+  {
+   "name": "LATTE 100ml",
+   "cost": "8",
+   "desc": "leite, espresso e crema de leite"
+  },
+  {
+   "name": "MACHIATTO 60ml",
+   "cost": "8",
+   "desc": "café espresso e crema de leite"
+  },
+  {
+   "name": "PINGADO 100ml",
+   "cost": "6",
+   "desc": "leite e café espresso"
+  },
+  {
+   "name": "MOCHA 230ml",
+   "cost": "10",
+   "desc": "leite, café espresso, chocolate e crema de leite"
+  },
+  {
+   "name": "SUBMARINO 180 ml",
+   "cost": "8",
+   "desc": "leite e chocolate"
+  },
+  {
+   "name": "CANELINHA 180ml",
+   "cost": "10",
+   "desc": "leite, café espresso, crema de leite e canela em pó"
+  },
+  {
+   "name": "CHOCOLATE EUROPEU",
+   "cost": "12",
+   "desc": ""
+  }
+ ],
+ "CAPUCCINO": [
+  {
+   "name": "ITALIANO 180ml",
+   "cost": "10",
+   "desc": "leite, café espresso e leite vaporizado"
+  },
+  {
+   "name": "TRADICIONAL 180ml",
+   "cost": "12",
+   "desc": "leite, café espresso, chocolate ao leite e leite vaporizado"
+  },
+  {
+   "name": "DOCE DE LEITE 180ml",
+   "cost": "14",
+   "desc": "leite, cacau em pó, canela em pó, chantilly e doce de leite em toda a borda"
+  },
+  {
+   "name": "BRIGADEIRO 180ml",
+   "cost": "14",
+   "desc": "leite, cacau em pó, canela em pó, chantilly e brigadeiro em toda a borda"
+  },
+  {
+   "name": "NUTELLA 180ml",
+   "cost": "14",
+   "desc": "leite, cacau em pó, canela em pó, chantilly e Nutella em toda a borda"
+  }
+ ],
+ "ESPRESSO TÔNICA": [
+  {
+   "name": "LIMÃO SICILIANO 480ml",
+   "cost": "14",
+   "desc": "espresso, essência de limão siciliano, água tônica e gelo"
+  },
+  {
+   "name": "FRUTAS VERMELHAS 480ml",
+   "cost": "14",
+   "desc": "espresso, essência de frutas vermelhas, água tônica e gelo"
+  },
+  {
+   "name": "TANGERINA 480ml",
+   "cost": "14",
+   "desc": "espresso, essência de tangerina, água tônica e gelo"
+  },
+  {
+   "name": "GENGIBRE 480ml",
+   "cost": "14",
+   "desc": "espresso, essência de gengibre, água tônica e gelo"
+  },
+  {
+   "name": "MAÇÃ VERDE 480ml",
+   "cost": "14",
+   "desc": "espresso, essência de maçã verde, água tônica e gelo"
+  }
+ ],
+ "GIN TÔNICA": [
+  {
+   "name": "LIMÃO SICILIANO 480ml",
+   "cost": "16",
+   "desc": "espresso, essência de limão siciliano, gin tônica e gelo"
+  },
+  {
+   "name": "FRUTAS VERMELHAS 480ml",
+   "cost": "16",
+   "desc": "espresso, essência de frutas vermelhas, gin tônica e gelo"
+  },
+  {
+   "name": "TANGERINA 480ml",
+   "cost": "16",
+   "desc": "espresso, essência de tangerina, gin tônica e gelo"
+  },
+  {
+   "name": "GENGIBRE 480ml",
+   "cost": "16",
+   "desc": "espresso, essência de gengibre, gin tônica e gelo"
+  },
+  {
+   "name": "MAÇÃ VERDE 480ml",
+   "cost": "16",
+   "desc": "espresso, essência de maçã verde, gin tônica e gelo"
+  }
+ ],
+ "BEBIDA GELADA COM LEITE": [
+  {
+   "name": "VIETNAMITA 230ml",
+   "cost": "12",
+   "desc": "espresso, leite condensado e gelo"
+  },
+  {
+   "name": "CAPUCCINO GELATTO TRADICIONAL 230ml",
+   "cost": "14",
+   "desc": "sorvete de creme batido com capuccino e leite, chantilly"
+  },
+  {
+   "name": "CAPUCCINO GELATTO DOCE DE LEITE 230ml",
+   "cost": "16",
+   "desc": "sorvete de creme batido com capuccino e leite, chantilly, doce de leite em toda a borda"
+  },
+  {
+   "name": "CAPUCCINO GELATTO BRIGADEIRO 230ml",
+   "cost": "16",
+   "desc": "sorvete de creme batido com capuccino e leite, chantilly, brigadeiro em toda a borda"
+  },
+  {
+   "name": "CAPUCCINO GELATTO NUTELLA 230ml",
+   "cost": "16",
+   "desc": "sorvete de creme batido com capuccino e leite, chantilly, nutella em toda a borda"
+  },
+  {
+   "name": "FRAPÊ CAFÉ 230ml",
+   "cost": "14",
+   "desc": "café espresso, leite em pó, baunilha e chantilly"
+  },
+  {
+   "name": "FRAPÊ ABACAXI COM HORTELÃ 230ml",
+   "cost": "14",
+   "desc": "polpa de abacaxi com hortelã, leite em pó, baunilha e chantilly"
+  },
+  {
+   "name": "FRAPÊ MARACUJÁ 230ml",
+   "cost": "14",
+   "desc": "polpa de maracujá, leite em pó, baunilha e chantilly"
+  },
+  {
+   "name": "ORANGE COFFEE 230ml",
+   "cost": "18",
+   "desc": "sorvete de creme, suco de laranja, café espresso, gelo e chantilly"
+  }
+ ],
+ "AFFOGATO": [
+  {
+   "name": "DOCE DE LEITE 230ml",
+   "cost": "17",
+   "desc": "duas bolas de sorvete de creme, espresso, chantilly e doce de leite em toda a borda"
+  },
+  {
+   "name": "NUTELLA 230ml",
+   "cost": "17",
+   "desc": "duas bolas de sorvete de creme, espresso, chantilly e Nutella em toda a borda"
+  },
+  {
+   "name": "BRIGADEIRO 230ml",
+   "cost": "17",
+   "desc": "duas bolas de sorvete de creme, espresso, chantilly e brigadeiro em toda a borda"
+  },
+  {
+   "name": "TRADICIONAL",
+   "cost": "14",
+   "desc": "sorvete de creme, café espresso e chantilly"
+  }
+ ],
+ "SHAKE WHEY PROTEIN": [
+  {
+   "name": "BAUNILHA 450ml",
+   "cost": "18",
+   "desc": "Whey protein sabor baunilha, banana, mamão papaya e água"
+  },
+  {
+   "name": "COOKIES 450ml",
+   "cost": "18",
+   "desc": "Whey protein sabor cookies, banana, mamão papaya e água"
+  },
+  {
+   "name": "CHOCOLATE 450ml",
+   "cost": "18",
+   "desc": "Whey protein sabor chocolate, banana, mamão papaya e água"
+  }
+ ],
+ "CHÁ QUENTE": [
+  {
+   "name": "MATE",
+   "cost": "7",
+   "desc": ""
+  },
+  {
+   "name": "ALECRIM",
+   "cost": "9",
+   "desc": ""
+  }
+ ],
+ "CHÁ GELADO": [
+  {
+   "name": "ALECRIM",
+   "cost": "9",
+   "desc": ""
+  },
+  {
+   "name": "MATE COM LIMÃO",
+   "cost": "9",
+   "desc": ""
+  },
+  {
+   "name": "HIBISCO COM ANIS ESTRELADO",
+   "cost": "12",
+   "desc": ""
+  }
+ ],
+ "DRINK": [
+  {
+   "name": "SUNSET 480ml",
+   "cost": "17",
+   "desc": "gin tônica, suco de laranja, essência de frutas vermelhas e gel"
+  },
+  {
+   "name": "CAIPIRINHA LIMÃO 230ml",
+   "cost": "19",
+   "desc": "limão, cachaça branca ou ouro e gelo"
+  },
+  {
+   "name": "CAIPIRINHA CANELINA",
+   "cost": "19",
+   "desc": "lima e limão, cachaça canelinha e gelo"
+  }
+ ],
+ "OUTRA BEBIDA GELADA": [
+  {
+   "name": "SODA ITALIANA 480ml",
+   "cost": "9",
+   "desc": "água com gás, gelo e essência. Sabores : gengibre, frutas vermelhas, maçã verde, tangerina, framboesa e limão siciliano"
+  },
+  {
+   "name": "AURORA BOREAL 480ml",
+   "cost": "12",
+   "desc": "água com gás, chá de flor de fada, mel, limão e gelo"
+  },
+  {
+   "name": "SUCOS DE POLPA 450ml",
+   "cost": "7",
+   "desc": "sabores: abacaxi com hortelã, laranja com acerola, maracujá e morango"
+  },
+  {
+   "name": "REFRIGERANTE LATA 350ml",
+   "cost": "6",
+   "desc": "Coca Cola, Coca Cola zero, Sprite, Fanta laranja e Fanta guaraná"
+  },
+  {
+   "name": "ÁGUA TÔNICA 350ml",
+   "cost": "6",
+   "desc": ""
+  },
+  {
+   "name": "ÁGUA TÔNICA ZERO 350ml",
+   "cost": "6",
+   "desc": ""
+  },
+  {
+   "name": "ÁGUA SEM GÁS 500ml",
+   "cost": "4",
+   "desc": ""
+  },
+  {
+   "name": "ÁGUA COM GÁS 500ml",
+   "cost": "5",
+   "desc": ""
+  }
+ ],
+ "LANCHES NA CHAPA": [
+  {
+   "name": "CHORIPAN",
+   "cost": "19",
+   "desc": "pão baguete brioche, linguiça toscana, mussarela, vinagrete especial de pimenta suave e rúcula"
+  },
+  {
+   "name": "BAURU ESPECIAL",
+   "cost": "15",
+   "desc": "pão baguete brioche, presunto, mussarela, tomate e rúcula"
+  },
+  {
+   "name": "QUEIJO NA CHAPA",
+   "cost": "9",
+   "desc": "pão baguete brioche e mussarela"
+  },
+  {
+   "name": "PÃO COM OVO ESPECIAL",
+   "cost": "12",
+   "desc": "pão baguete brioche, ovo frito e mussarela"
+  },
+  {
+   "name": "OMELEPÃO",
+   "cost": "17",
+   "desc": "pão de forma, omelete, mussarela, tomate, alface"
+  },
+  {
+   "name": "BALAIO",
+   "cost": "26",
+   "desc": "pão baguete brioche, carne desfiada e muita mussarela"
+  }
+ ],
+ "PÃO DE QUEIJO": {
+  "name": "TRADICIONAL",
+  "cost": "4",
+  "desc": ""
+ },
+ "PÃO DE QUEIJO RECHEADO": [
+  {
+   "name": "MUSSARELINHA",
+   "cost": "7",
+   "desc": ""
+  },
+  {
+   "name": "CREAM CHEESE",
+   "cost": "7",
+   "desc": ""
+  },
+  {
+   "name": "PRESUNTO E MUSSARELA",
+   "cost": "9",
+   "desc": ""
+  },
+  {
+   "name": "ROMEU E JULIETA",
+   "cost": "8",
+   "desc": ""
+  },
+  {
+   "name": "DOCE DE LEITE",
+   "cost": "7",
+   "desc": ""
+  },
+  {
+   "name": "NUTELLA",
+   "cost": "8",
+   "desc": ""
+  }
+ ],
+ "TAPIOCA": [
+  {
+   "name": "MARGUERITA",
+   "cost": "14",
+   "desc": "mussarela, tomate seco e manjericão"
+  },
+  {
+   "name": "FRANGO CREMOSO",
+   "cost": "16",
+   "desc": "frango desfiado, creme de queijo, cenoura e azeitona preta"
+  },
+  {
+   "name": "PIZZA",
+   "cost": "16",
+   "desc": "presunto, mussarela, tomate e orégano"
+  },
+  {
+   "name": "OVO MEXIDO CREMOSO",
+   "cost": "12",
+   "desc": "ovos mexidos e cream cheese"
+  },
+  {
+   "name": "BANANA",
+   "cost": "10",
+   "desc": "banana, canela e mel"
+  },
+  {
+   "name": "SENSAÇÃO",
+   "cost": "15",
+   "desc": "Nutella e morangos"
+  },
+  {
+   "name": "ROMEU E JULIETA",
+   "cost": "14",
+   "desc": "mussarela e goiabada"
+  }
+ ],
+ "CREPES DE TAPIOCA": [
+  {
+   "name": "FRANGO ESPECIAL",
+   "cost": "16",
+   "desc": "frango desfiado, cenoura , azeitona preta e mussarela"
+  },
+  {
+   "name": "RÚCULA COM TAMATE SECO",
+   "cost": "14",
+   "desc": "mussarela, tomate seco, rúcula e azeite"
+  },
+  {
+   "name": "PIZZA",
+   "cost": "16",
+   "desc": "presunto, mussarela, tomate e rúcula"
+  }
+ ],
+ "OMELETE": {
+  "name": "OMELETE SAUDÁVEL",
+  "cost": "17",
+  "desc": "ovos, frango, mussarela, tomate, rúcula, cenoura ralada e azeitona preta"
+ },
+ "CAFÉ DA MANHA": {
+  "name": "CAFÉ DA  MANHÃ DA NUTRI",
+  "cost": "25",
+  "desc": "TOSTADINHO DE OVO + SALADA DE FRUTAS + CAFÉ"
+ },
+ "SALGADO": [
+  {
+   "name": "EMPADÃO FRANGO CATUPIRY",
+   "cost": "8",
+   "desc": ""
+  },
+  {
+   "name": "EMPADÃO DE PRESUNTO E QUEIJO",
+   "cost": "8",
+   "desc": ""
+  },
+  {
+   "name": "EMPADÃO DE PALMITO",
+   "cost": "8",
+   "desc": ""
+  },
+  {
+   "name": "QUICHE DE ALHO PORÓ",
+   "cost": "10",
+   "desc": ""
+  },
+  {
+   "name": "QUICHE DE BRÓCOLIS E BACON",
+   "cost": "10",
+   "desc": ""
+  },
+  {
+   "name": "ESFIRRA DE CARNE",
+   "cost": "8",
+   "desc": ""
+  },
+  {
+   "name": "COXINHA PAULISTA DE CARNE",
+   "cost": "5",
+   "desc": ""
+  },
+  {
+   "name": "COXINHA PAULISTA DE FRANGO",
+   "cost": "5",
+   "desc": ""
+  },
+  {
+   "name": "TÁBUA DE COXINHA",
+   "cost": "14",
+   "desc": "3 coxinhas servidas na tábua com maionese defumada especial"
+  }
+ ],
+ "TOSTADINHO": [
+  {
+   "name": "TOSTADINHO MANTEIGA",
+   "cost": "6",
+   "desc": "pão baguete brioche tostado na chapa com manteiga"
+  },
+  {
+   "name": "TOSTADINHO TOMATE",
+   "cost": "8",
+   "desc": "pão baguete brioche tostado na chapa coberto com tomatinho ralado, azeite e ervas finas"
+  },
+  {
+   "name": "TOSTADINHO OVO MEXIDO",
+   "cost": "10",
+   "desc": "pão baguete brioche tostado na chapa com manteiga coberto com ovos mexidos"
+  }
+ ],
+ "SOBREMESA": [
+  {
+   "name": "PUDIM DE CAFÉ",
+   "cost": "8",
+   "desc": "servido com chantilly"
+  },
+  {
+   "name": "DOCES GOURMET",
+   "cost": "5",
+   "desc": ""
+  },
+  {
+   "name": "TORTINHAS ESPECIAIS",
+   "cost": "12",
+   "desc": "consulte sabor disponível no dia"
+  },
+  {
+   "name": "BOLO CENOURINHA",
+   "cost": "17",
+   "desc": "bolo de cenoura servido com 1 bola de sorvete e ganache de chocolate"
+  },
+  {
+   "name": "TORTA DE BANANA \"FATIA\"",
+   "cost": "6",
+   "desc": ""
+  },
+  {
+   "name": "PETIT GATEAU + CHOCOLATE",
+   "cost": "19",
+   "desc": "petit gateau servido com 1 bola de sorvete e ganache de chocolate"
+  },
+  {
+   "name": "BROWNIE DELÍCIA",
+   "cost": "18",
+   "desc": "brownie de chocolate com nozes servido com 1 bola de sorvete e ganache de chocolate"
+  },
+  {
+   "name": "PAVÊ DE NATA DELÍCIA",
+   "cost": "12",
+   "desc": ""
+  },
+  {
+   "name": "PÃO DE MEL",
+   "cost": "9",
+   "desc": ""
+  },
+  {
+   "name": "CASEIRINHO DO DIA",
+   "cost": "6",
+   "desc": "consulte sabor disponível no dia"
+  },
+  {
+   "name": "TORTA CHEESECAKE \"FATIA\"",
+   "cost": "16",
+   "desc": ""
+  },
+  {
+   "name": "TORTA BANOFFE \"FATIA\"",
+   "cost": "15",
+   "desc": ""
+  },
+  {
+   "name": "BOLO PRESTIGIO \"FATIA\"",
+   "cost": "10",
+   "desc": ""
+  }
+ ],
+ "SORVETES NA TAÇA": [
+  {
+   "name": "TAÇA TRADICIONAL",
+   "cost": "10",
+   "desc": "duas bolas de sorvete de creme, chantilly e caramelo\nSORVETES NA TAÇA TAÇA MINEIRINHA, 14, duas bolas de sorvete de creme"
+  },
+  {
+   "name": "TAÇA BRIGADEIRO",
+   "cost": "14",
+   "desc": "duas bolas de sorvete de creme, brigadeiro e chantilly"
+  }
+ ]
+}

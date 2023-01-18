@@ -1,0 +1,131 @@
+GROUP, NAME, COST, DESC
+CAFÉ ESPRESSO, CURTO 30 ml, 5, 
+CAFÉ ESPRESSO, DUPLO 60 ml, 7,
+CAFÉ ESPRESSO, CARIOCA 90 ml, 9,
+COADO, CAFÉS ESPECIAIS COADOS, 12, "Peça nossa tábua de cafés e escolha o seu. Métodos v60 e aeropress"
+RITUAL, RITUAL DO CAFEQUIZADOR, 15, "Faça uma imersão no mundo dos cafés e descubra as principais diferenças entre especiais, tradicionais e gourmet. Acompanha um café da nossa tábua de cafés especiais."
+
+BEBIDA QUENTE, LATTE 100ml, 8, "leite, espresso e crema de leite"
+BEBIDA QUENTE, MACHIATTO 60ml, 8, "café espresso e crema de leite"
+BEBIDA QUENTE, PINGADO 100ml, 6, "leite e café espresso"
+BEBIDA QUENTE, MOCHA 230ml, 10, "leite, café espresso, chocolate e crema de leite"
+BEBIDA QUENTE, SUBMARINO 180 ml, 8, "leite e chocolate"
+BEBIDA QUENTE, CANELINHA 180ml, 10, "leite, café espresso, crema de leite e canela em pó"
+BEBIDA QUENTE, CHOCOLATE EUROPEU, 12,
+
+CAPUCCINO, ITALIANO 180ml, 10, "leite, café espresso e leite vaporizado"
+CAPUCCINO, TRADICIONAL 180ml, 12, "leite, café espresso, chocolate ao leite e leite vaporizado"
+CAPUCCINO, DOCE DE LEITE 180ml, 14, "leite, cacau em pó, canela em pó, chantilly e doce de leite em toda a borda"
+CAPUCCINO, BRIGADEIRO 180ml, 14, "leite, cacau em pó, canela em pó, chantilly e brigadeiro em toda a borda"
+CAPUCCINO, NUTELLA 180ml, 14, "leite, cacau em pó, canela em pó, chantilly e Nutella em toda a borda"
+
+ESPRESSO TÔNICA, LIMÃO SICILIANO 480ml, 14, "espresso, essência de limão siciliano, água tônica e gelo"
+ESPRESSO TÔNICA, FRUTAS VERMELHAS 480ml, 14, "espresso, essência de frutas vermelhas, água tônica e gelo"
+ESPRESSO TÔNICA, TANGERINA 480ml, 14, "espresso, essência de tangerina, água tônica e gelo"
+ESPRESSO TÔNICA, GENGIBRE 480ml, 14, "espresso, essência de gengibre, água tônica e gelo"
+ESPRESSO TÔNICA, MAÇÃ VERDE 480ml, 14, "espresso, essência de maçã verde, água tônica e gelo"
+GIN TÔNICA, LIMÃO SICILIANO 480ml, 16, "espresso, essência de limão siciliano, gin tônica e gelo"
+GIN TÔNICA, FRUTAS VERMELHAS 480ml, 16, "espresso, essência de frutas vermelhas, gin tônica e gelo"
+GIN TÔNICA, TANGERINA 480ml, 16, "espresso, essência de tangerina, gin tônica e gelo"
+GIN TÔNICA, GENGIBRE 480ml, 16, "espresso, essência de gengibre, gin tônica e gelo"
+GIN TÔNICA, MAÇÃ VERDE 480ml, 16, "espresso, essência de maçã verde, gin tônica e gelo"
+
+BEBIDA GELADA COM LEITE, VIETNAMITA 230ml, 12, "espresso, leite condensado e gelo"
+BEBIDA GELADA COM LEITE, CAPUCCINO GELATTO TRADICIONAL 230ml, 14, "sorvete de creme batido com capuccino e leite, chantilly"
+BEBIDA GELADA COM LEITE, CAPUCCINO GELATTO DOCE DE LEITE 230ml, 16, "sorvete de creme batido com capuccino e leite, chantilly, doce de leite em toda a borda"
+BEBIDA GELADA COM LEITE, CAPUCCINO GELATTO BRIGADEIRO 230ml, 16, "sorvete de creme batido com capuccino e leite, chantilly, brigadeiro em toda a borda"
+BEBIDA GELADA COM LEITE, CAPUCCINO GELATTO NUTELLA 230ml, 16, "sorvete de creme batido com capuccino e leite, chantilly, nutella em toda a borda"
+BEBIDA GELADA COM LEITE, FRAPÊ CAFÉ 230ml, 14, "café espresso, leite em pó, baunilha e chantilly"
+BEBIDA GELADA COM LEITE, FRAPÊ ABACAXI COM HORTELÃ 230ml, 14, "polpa de abacaxi com hortelã, leite em pó, baunilha e chantilly"
+BEBIDA GELADA COM LEITE, FRAPÊ MARACUJÁ 230ml, 14, "polpa de maracujá, leite em pó, baunilha e chantilly"
+BEBIDA GELADA COM LEITE, ORANGE COFFEE 230ml, 18, "sorvete de creme, suco de laranja, café espresso, gelo e chantilly"
+
+AFFOGATO, DOCE DE LEITE 230ml, 17, "duas bolas de sorvete de creme, espresso, chantilly e doce de leite em toda a borda"
+AFFOGATO, NUTELLA 230ml, 17, "duas bolas de sorvete de creme, espresso, chantilly e Nutella em toda a borda"
+AFFOGATO, BRIGADEIRO 230ml, 17, "duas bolas de sorvete de creme, espresso, chantilly e brigadeiro em toda a borda"
+AFFOGATO, TRADICIONAL, 14, "sorvete de creme, café espresso e chantilly"
+
+SHAKE WHEY PROTEIN, BAUNILHA 450ml, 18, "Whey protein sabor baunilha, banana, mamão papaya e água"
+SHAKE WHEY PROTEIN, COOKIES 450ml, 18, "Whey protein sabor cookies, banana, mamão papaya e água"
+SHAKE WHEY PROTEIN, CHOCOLATE 450ml, 18, "Whey protein sabor chocolate, banana, mamão papaya e água"
+
+CHÁ QUENTE, MATE, 7, 
+CHÁ QUENTE, ALECRIM, 9,
+CHÁ GELADO, ALECRIM, 9,
+CHÁ GELADO, MATE COM LIMÃO, 9,
+CHÁ GELADO, HIBISCO COM ANIS ESTRELADO, 12,
+
+DRINK, SUNSET 480ml, 17, "gin tônica, suco de laranja, essência de frutas vermelhas e gel"
+DRINK, CAIPIRINHA LIMÃO 230ml, 19, "limão, cachaça branca ou ouro e gelo"
+DRINK, CAIPIRINHA CANELINA, 19, "lima e limão, cachaça canelinha e gelo"
+
+OUTRA BEBIDA GELADA, SODA ITALIANA 480ml, 9, "água com gás, gelo e essência. Sabores : gengibre, frutas vermelhas, maçã verde, tangerina, framboesa e limão siciliano"
+OUTRA BEBIDA GELADA, AURORA BOREAL 480ml, 12, "água com gás, chá de flor de fada, mel, limão e gelo"
+OUTRA BEBIDA GELADA, SUCOS DE POLPA 450ml, 7, "sabores: abacaxi com hortelã, laranja com acerola, maracujá e morango"
+OUTRA BEBIDA GELADA, REFRIGERANTE LATA 350ml, 6, "Coca Cola, Coca Cola zero, Sprite, Fanta laranja e Fanta guaraná"
+OUTRA BEBIDA GELADA, ÁGUA TÔNICA 350ml, 6,
+OUTRA BEBIDA GELADA, ÁGUA TÔNICA ZERO 350ml, 6,
+OUTRA BEBIDA GELADA, ÁGUA SEM GÁS 500ml, 4,
+OUTRA BEBIDA GELADA, ÁGUA COM GÁS 500ml, 5,
+
+LANCHES NA CHAPA, CHORIPAN, 19, "pão baguete brioche, linguiça toscana, mussarela, vinagrete especial de pimenta suave e rúcula"
+LANCHES NA CHAPA, BAURU ESPECIAL, 15, "pão baguete brioche, presunto, mussarela, tomate e rúcula"
+LANCHES NA CHAPA, QUEIJO NA CHAPA, 9, "pão baguete brioche e mussarela"
+LANCHES NA CHAPA, PÃO COM OVO ESPECIAL, 12, "pão baguete brioche, ovo frito e mussarela"
+LANCHES NA CHAPA, OMELEPÃO, 17, "pão de forma, omelete, mussarela, tomate, alface"
+LANCHES NA CHAPA, BALAIO, 26, "pão baguete brioche, carne desfiada e muita mussarela"
+
+PÃO DE QUEIJO, TRADICIONAL, 4,
+PÃO DE QUEIJO RECHEADO, MUSSARELINHA, 7,
+PÃO DE QUEIJO RECHEADO, CREAM CHEESE, 7,
+PÃO DE QUEIJO RECHEADO, PRESUNTO E MUSSARELA, 9,
+PÃO DE QUEIJO RECHEADO, ROMEU E JULIETA, 8,
+PÃO DE QUEIJO RECHEADO, DOCE DE LEITE, 7,
+PÃO DE QUEIJO RECHEADO, NUTELLA, 8,
+
+TAPIOCA, MARGUERITA, 14, "mussarela, tomate seco e manjericão"
+TAPIOCA, FRANGO CREMOSO, 16, "frango desfiado, creme de queijo, cenoura e azeitona preta"
+TAPIOCA, PIZZA, 16, "presunto, mussarela, tomate e orégano"
+TAPIOCA, OVO MEXIDO CREMOSO, 12, "ovos mexidos e cream cheese"
+TAPIOCA, BANANA, 10, "banana, canela e mel"
+TAPIOCA, SENSAÇÃO, 15, "Nutella e morangos"
+TAPIOCA, ROMEU E JULIETA, 14, "mussarela e goiabada"
+
+CREPES DE TAPIOCA, FRANGO ESPECIAL, 16, "frango desfiado, cenoura , azeitona preta e mussarela"
+CREPES DE TAPIOCA, RÚCULA COM TAMATE SECO, 14, "mussarela, tomate seco, rúcula e azeite"
+CREPES DE TAPIOCA, PIZZA, 16, "presunto, mussarela, tomate e rúcula"
+
+OMELETE, OMELETE SAUDÁVEL, 17,  "ovos, frango, mussarela, tomate, rúcula, cenoura ralada e azeitona preta"
+CAFÉ DA MANHA, CAFÉ DA  MANHÃ DA NUTRI, 25, "TOSTADINHO DE OVO + SALADA DE FRUTAS + CAFÉ"
+
+SALGADO, EMPADÃO FRANGO CATUPIRY, 8,
+SALGADO, EMPADÃO DE PRESUNTO E QUEIJO, 8,
+SALGADO, EMPADÃO DE PALMITO, 8,
+SALGADO, QUICHE DE ALHO PORÓ, 10,
+SALGADO, QUICHE DE BRÓCOLIS E BACON, 10,
+SALGADO, ESFIRRA DE CARNE, 8,
+SALGADO, COXINHA PAULISTA DE CARNE, 5,
+SALGADO, COXINHA PAULISTA DE FRANGO, 5,
+SALGADO, TÁBUA DE COXINHA, 14, "3 coxinhas servidas na tábua com maionese defumada especial"
+
+TOSTADINHO, TOSTADINHO MANTEIGA, 6, "pão baguete brioche tostado na chapa com manteiga"
+TOSTADINHO, TOSTADINHO TOMATE, 8, "pão baguete brioche tostado na chapa coberto com tomatinho ralado, azeite e ervas finas"
+TOSTADINHO, TOSTADINHO OVO MEXIDO, 10, "pão baguete brioche tostado na chapa com manteiga coberto com ovos mexidos"
+
+SOBREMESA, PUDIM DE CAFÉ, 8, "servido com chantilly"
+SOBREMESA, DOCES GOURMET, 5,
+SOBREMESA, TORTINHAS ESPECIAIS, 12, "consulte sabor disponível no dia"
+SOBREMESA, BOLO CENOURINHA, 17, "bolo de cenoura servido com 1 bola de sorvete e ganache de chocolate"
+SOBREMESA, TORTA DE BANANA "FATIA", 6, 
+SOBREMESA, PETIT GATEAU + CHOCOLATE, 19, "petit gateau servido com 1 bola de sorvete e ganache de chocolate"
+SOBREMESA, BROWNIE DELÍCIA, 18, "brownie de chocolate com nozes servido com 1 bola de sorvete e ganache de chocolate"
+SOBREMESA, PAVÊ DE NATA DELÍCIA, 12,
+SOBREMESA, PÃO DE MEL, 9,
+SOBREMESA, CASEIRINHO DO DIA, 6, "consulte sabor disponível no dia"
+SOBREMESA, TORTA CHEESECAKE "FATIA", 16,
+SOBREMESA, TORTA BANOFFE "FATIA", 15, 
+SOBREMESA, BOLO PRESTIGIO "FATIA", 10,
+
+SORVETES NA TAÇA, TAÇA TRADICIONAL, 10, "duas bolas de sorvete de creme, chantilly e caramelo"
+SORVETES NA TAÇA TAÇA MINEIRINHA, 14, "duas bolas de sorvete de creme, doce de leite e chantilly"
+SORVETES NA TAÇA, TAÇA BRIGADEIRO, 14, "duas bolas de sorvete de creme, brigadeiro e chantilly"

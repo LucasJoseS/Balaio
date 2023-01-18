@@ -1,0 +1,15 @@
+---
+export interface Props {
+  obj: { name: string, cost: string, desc: string }
+}
+
+const { obj } = Astro.props
+const { name, cost, desc } = obj
+---
+
+<li>
+  <div>
+    <p>{name} ${cost}</p>
+    <p>{desc}</p>
+  </div>
+</li>
