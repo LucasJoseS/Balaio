@@ -32,7 +32,7 @@ jobs:
         uses: actions/configure-pages@v2
       - name: Install Dependencies
         run: ${ yarn install }
-        working-directory: ${ env.BUILD_PATH }
+        working-directory: ${{ env.BUILD_PATH }}
       - name: Build JSON file
         run: python scripts/create-menu-items.py'
       - name: Build with Astro
