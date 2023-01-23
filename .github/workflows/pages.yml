@@ -31,7 +31,7 @@ jobs:
         id: pages
         uses: actions/configure-pages@v2
       - name: Install Dependencies
-        run: ${ yarn install }
+        run: yarn install
         working-directory: ${{ env.BUILD_PATH }}
       - name: Build JSON file
         run: python scripts/create-menu-items.py'
