@@ -24,8 +24,8 @@ concurrency:
   cancel-in-progress: true
 
 env:
-  ROOT: "."
-  BUILD_PATH: "./menu" # default value when not using subfolders
+  ROOT: .
+  BUILD_PATH: ./menu # default value when not using subfolders
 
 jobs:
   build:
@@ -56,7 +56,7 @@ jobs:
         with:
           node-version: "16"
           cache: ${{ steps.detect-package-manager.outputs.manager }}
-          cache-dependency-path: ${{ env.BUILD_PATH }}/package-lock.json
+          cache-dependency-path: ${{ env.BUILD_PATH }}/yarn.lock
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v2
